@@ -1,0 +1,329 @@
+{
+	"info": {
+		"_postman_id": "53e80ab2-0a53-41a3-8f4f-3dd469eb28f1",
+		"name": "Devops_2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://ec2-18-217-209-2.us-east-2.compute.amazonaws.com/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-18-217-209-2.us-east-2.compute.amazonaws.com/",
+					"protocol": "http",
+					"host": [
+						"ec2-18-217-209-2",
+						"us-east-2",
+						"compute",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Months List",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-18-217-209-2.us-east-2.compute.amazonaws.com/months",
+					"protocol": "http",
+					"host": [
+						"ec2-18-217-209-2",
+						"us-east-2",
+						"compute",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"months"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Jan",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-18-217-209-2.us-east-2.compute.amazonaws.com/months/111",
+					"protocol": "http",
+					"host": [
+						"ec2-18-217-209-2",
+						"us-east-2",
+						"compute",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"months",
+						"111"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Feb",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-18-217-209-2.us-east-2.compute.amazonaws.com/months/2",
+					"protocol": "http",
+					"host": [
+						"ec2-18-217-209-2",
+						"us-east-2",
+						"compute",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"months",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Mar",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-18-217-209-2.us-east-2.compute.amazonaws.com/months/3",
+					"protocol": "http",
+					"host": [
+						"ec2-18-217-209-2",
+						"us-east-2",
+						"compute",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"months",
+						"3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Apr",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-18-217-209-2.us-east-2.compute.amazonaws.com/months/4",
+					"protocol": "http",
+					"host": [
+						"ec2-18-217-209-2",
+						"us-east-2",
+						"compute",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"months",
+						"4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Mai",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-18-217-209-2.us-east-2.compute.amazonaws.com/months/5",
+					"protocol": "http",
+					"host": [
+						"ec2-18-217-209-2",
+						"us-east-2",
+						"compute",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"months",
+						"5"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Jun",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-18-217-209-2.us-east-2.compute.amazonaws.com/months/6",
+					"protocol": "http",
+					"host": [
+						"ec2-18-217-209-2",
+						"us-east-2",
+						"compute",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"months",
+						"6"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Juli",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-18-217-209-2.us-east-2.compute.amazonaws.com/months/7",
+					"protocol": "http",
+					"host": [
+						"ec2-18-217-209-2",
+						"us-east-2",
+						"compute",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"months",
+						"7"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Aug",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-18-217-209-2.us-east-2.compute.amazonaws.com/months/8",
+					"protocol": "http",
+					"host": [
+						"ec2-18-217-209-2",
+						"us-east-2",
+						"compute",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"months",
+						"8"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Sept",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-18-217-209-2.us-east-2.compute.amazonaws.com/months/9",
+					"protocol": "http",
+					"host": [
+						"ec2-18-217-209-2",
+						"us-east-2",
+						"compute",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"months",
+						"9"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Okt",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-18-217-209-2.us-east-2.compute.amazonaws.com/months/10",
+					"protocol": "http",
+					"host": [
+						"ec2-18-217-209-2",
+						"us-east-2",
+						"compute",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"months",
+						"10"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Nov",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-18-217-209-2.us-east-2.compute.amazonaws.com/months/11",
+					"protocol": "http",
+					"host": [
+						"ec2-18-217-209-2",
+						"us-east-2",
+						"compute",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"months",
+						"11"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Dez",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-18-217-209-2.us-east-2.compute.amazonaws.com/months/12",
+					"protocol": "http",
+					"host": [
+						"ec2-18-217-209-2",
+						"us-east-2",
+						"compute",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"months",
+						"12"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
